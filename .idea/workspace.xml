@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="753bd821-92c7-4f28-9e9f-4e6bfe501e0b" name="Default Changelist" comment="" />
+    <list default="true" id="753bd821-92c7-4f28-9e9f-4e6bfe501e0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/xmind/test.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="227">
-                <caret line="29" column="71" lean-forward="true" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+              <first_editor relative-caret-position="223">
+                <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
               </first_editor>
               <second_editor />
             </state>
@@ -35,9 +37,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-122" />
-    <option name="y" value="25" />
-    <option name="width" value="1440" />
+    <option name="x" value="38" />
+    <option name="y" value="95" />
+    <option name="width" value="1208" />
     <option name="height" value="805" />
   </component>
   <component name="ProjectView">
@@ -98,20 +100,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626421411563</updated>
-      <workItem from="1626421413391" duration="836000" />
+      <workItem from="1626421413391" duration="1601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="836000" />
+    <option name="totallyTimeSpent" value="1601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="25" width="1440" height="790" extended-state="0" />
-    <editor active="true" />
+    <frame x="38" y="95" width="1208" height="805" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123032905" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5849057" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -119,7 +120,7 @@
       <window_info anchor="bottom" id="GraphQL" />
       <window_info anchor="bottom" id="SOQL Query" />
       <window_info anchor="bottom" id="Log Analyzer" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32947975" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.37906647" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Anonymous Apex" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -145,8 +146,8 @@
     <entry file="file://$PROJECT_DIR$/xmind/test.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="227">
-            <caret line="29" column="71" lean-forward="true" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+          <first_editor relative-caret-position="223">
+            <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
           </first_editor>
           <second_editor />
         </state>
